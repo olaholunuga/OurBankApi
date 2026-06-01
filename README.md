@@ -1,1 +1,6 @@
 # OurBankApi
+### RUN
+```
+dotnet run
+```
+
